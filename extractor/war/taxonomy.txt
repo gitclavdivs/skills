@@ -1,3 +1,15 @@
 aero(space|nautical) {engineer} : Engineering
 chemical {engineer} {engineer}: Engineering
 material (science|engineer|engineering) : Engineering
+(baker|baking) : Baker
+(plumber|plumbing) : Plumber
+(roofer|roofing) : Roofer
+(Angular|Backbone|React|Flux) : JavaScript
+(Ext|ExtJS) : JavaScript
+(Subversion|Git) : Version Control
+(database):Database
+(administration):Administration
+(Microsoft Office|Word|Excel|Power\\s*Point) : Microsoft Office
+(type|typing) : Typist
+graphic (arts|design) : Graphic Arts/Design
+

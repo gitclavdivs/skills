@@ -1,5 +1,7 @@
 package com.clavdivs;
 
+import java.io.PrintStream;
+
 public class Match
 {
   int    start;
@@ -13,4 +15,14 @@ public class Match
     this.text  = text;
   }
 
+  public void print(PrintStream ps)
+  {
+    ps.format("%d %d '%s'\n", start, end, text);
+  }
+  
+  public void print()
+  {
+    print(System.out);
+  }
+  
 }
